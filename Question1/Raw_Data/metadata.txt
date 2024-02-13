@@ -1,0 +1,7 @@
+The data is given by the professor to do the Assignment on the date of feb 12 2024.
+Description: This dataset contains measurements of height, weight, age, grip strength, and frailty for 10 individuals.
+Format: CSV
+Fields: Height (Inches), Weight (Pounds), Age, Grip strength, Frailty
+Where Frailty has the values N and Y which means Yes and No.
+Units: Inches, Pounds, Years, Pounds,force.
+Source: Self-reported measurements
